@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer%20student;G_Mindset%20make%20everything%20easier&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;keep%20going%20is%20the%20only%20way&font=Fira%20Code&center=true&width=450&height=55&color=4F0F93&vCenter=true&size=28"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer student at Alx Africa
